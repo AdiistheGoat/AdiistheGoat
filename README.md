@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdiistheGoat
+- 👋 Hi, I’m Aditya Goyal
 - 👀 I’m interested in ...building cool stuff using software
 - 🌱 I’m currently learning ...C and DSA in python
 - 💞️ I’m looking to collaborate on ...various projects in python,java or C++
