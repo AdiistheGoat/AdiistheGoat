@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...C and DSA in python
 - 💞️ I’m looking to collaborate on ...various projects in python,java or C++
 - 📫 How to reach me ...agoyal33@wisc.edu
-- ⚡ Fun fact: ...I still dont know how to navigate through git and github..
+- ⚡ Fun fact: ...I love squash
 
 <!---
 AdiistheGoat/AdiistheGoat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
