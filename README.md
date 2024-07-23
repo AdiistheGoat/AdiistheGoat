@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Goyal
-- 👀 I’m interested in ...building cool stuff using software
+- 👀 I’m interested in ...doing ML projects
 - 🌱 I’m currently learning ...C and DSA in python
 - 💞️ I’m looking to collaborate on ...various projects in python,java or C++
 - 📫 How to reach me ...agoyal33@wisc.edu
