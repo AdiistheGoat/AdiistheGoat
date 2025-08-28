@@ -5,7 +5,7 @@
                                 Pursuing my BS. in Computer Science from University Of Wisconsin-Madison.
 
 
-🔭 I’m recently interned  at Freecharge and completed a full stack production grade agentic ai application
+🔭 I recently interned at Freecharge and completed a full stack production grade agentic ai application
 
 🌱 Fields of Interest: SWE and Machine Learning
 
