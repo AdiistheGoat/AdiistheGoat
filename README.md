@@ -18,17 +18,8 @@
 </div>
 
 
-<h3>Languages</h3>
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark)](https://skillicons.dev)
 
-<h3>Technologies</h3>
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark)](https://skillicons.dev)
-
-<h3>Developer Tools</h3>
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,eclipse&theme=dark)](https://skillicons.dev)
-
-<h3>Cloud Services</h3>
-[![Tools](https://skillicons.dev/icons?i=gcp,aws&theme=dark)](https://skillicons.dev)
 
 Connect with me:
 
