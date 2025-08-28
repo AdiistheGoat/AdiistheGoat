@@ -42,7 +42,7 @@
 <h3>Cloud Services</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
   </a>
 </p>
 
