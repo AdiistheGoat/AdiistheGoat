@@ -9,7 +9,7 @@
 
 🌱 Fields of Interest: SWE and Machine Learning
 
-📫 How to reach me: agityagoyal080705@gmail.com
+📫 How to reach me: adityagoyal080705@gmail.com
 
 
 <div align="center">
