@@ -1,8 +1,8 @@
-                                                      I'm Aditya Goyal
+                                              I'm Aditya Goyal
                                       
-                   A software devloper and machine learning enthusiast who loves creating and exploring new things.
+            A software devloper and machine learning enthusiast who loves creating and exploring new things.
 
-                                Pursuing my BS. in Computer Science from University Of Wisconsin-Madison.
+                    Pursuing my BS. in Computer Science from University Of Wisconsin-Madison.
 
 
 🔭 I recently interned at Freecharge and completed a full stack production grade agentic ai application
