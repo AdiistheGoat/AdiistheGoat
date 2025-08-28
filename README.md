@@ -21,14 +21,14 @@
 <h3>Languages</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql" />
   </a>
 </p>
 
 <h3>Technologies</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,flask,fastapi,redis,kafka,postgres,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,flask,fastapi,redis,kafka,postgres,sqlite" />
   </a>
 </p>
 
