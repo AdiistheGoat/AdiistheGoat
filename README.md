@@ -18,13 +18,28 @@
 </div>
 
 
+<h3>Languages</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql&theme=dark" />
+  </a>
+</p>
+
+<h3>Technologies</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,flask,fastapi,redis,kafka,postgres,sqlite&theme=dark" />
+  </a>
+</p>
+
+<h3>Developer Tools</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark" />
   </a>
 </p>
 
-
+<h3>Cloud Services</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark" />
