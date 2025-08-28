@@ -17,9 +17,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdiistheGoat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+<h3>Languages</h3>
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark)](https://skillicons.dev)
 
+<h3>Technologies</h3>
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark)](https://skillicons.dev)
 
 Connect with me:
 
