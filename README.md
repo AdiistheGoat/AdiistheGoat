@@ -50,3 +50,9 @@ Connect with me:
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="60" height="30">
 ](https://www.linkedin.com/in/aditya-goyal-aa0288213/)
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AdiistheGoat/AdiistheGoat/output/snake.svg" alt="Snake animation" />
+
