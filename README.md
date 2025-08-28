@@ -28,14 +28,14 @@
 <h3>Technologies</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,flask,fastapi,redis,kafka,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,flask,fastapi,redis,kafka,opencv,postgres,sqlite" />
   </a>
 </p>
 
 <h3>Developer Tools</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,docker,github,eclipse,anaconda&theme=dark" />
   </a>
 </p>
 
@@ -47,6 +47,10 @@
 </p>
 
 Connect with me:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="60" height="30">
+](https://www.linkedin.com/in/aditya-goyal-aa0288213/)
+
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="60" height="30">
 ](https://www.linkedin.com/in/aditya-goyal-aa0288213/)
