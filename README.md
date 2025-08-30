@@ -1,6 +1,6 @@
                                               I'm Aditya Goyal
                                       
-            A software devloper and machine learning enthusiast who loves creating and exploring new things.
+            A software devloper specializing in machine learning who loves creating and exploring new things.
 
              Pursuing my BS. Honors in Computer Science and Data Science from University Of Wisconsin-Madison.
 
