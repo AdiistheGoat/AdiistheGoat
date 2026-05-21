@@ -11,6 +11,14 @@
 
 📫 How to reach me: adityagoyal080705@gmail.com
 
+Project planned: Optimized CUDA kernels for 1.58 bit LLMs
+
+Summer goals: 
+Finish Neetcode 150
+Read Baseten's Inference Engineering 
+Have a coffee chat with one research scientist / research engineer every week 
+Reach out to 1 professor and their phd students whose work I am interested in until I get research
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujgaurave&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
