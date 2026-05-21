@@ -5,7 +5,7 @@
              Pursuing my BS. Honors in Computer Science and Data Science from University Of Wisconsin-Madison.
 
 
-🔭 I recently interned at Freecharge and completed a full stack production grade agentic ai application
+🔭 I am incoming intern at Frizzle (YC backed) working on agentic workflows and evals. I also worked as a research intern at Sprocket Lab where I worked on recovering the training data distribution from gradient signals (ICML first author paper under review). My long term goal is to become a ML Research Engineer and I am currently looking for summer research opportunties. My interests are in data curation,  model architecture, alignment, and inference. 
 
 🌱 Fields of Interest: SWE and Machine Learning
 
