@@ -18,6 +18,7 @@ Summer goals:
 - Read Baseten's Inference Engineering 
 - Have a coffee chat with one research scientist / research engineer every week 
 - Reach out to 1 professor and their phd students whose work I am interested in until I get research
+- Staying healthy and happy :)
 
 
 <div align="center">
