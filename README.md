@@ -15,7 +15,7 @@ Project planned: Optimized CUDA kernels for 1.58 bit LLMs
 
 Summer goals: 
 - Finish Neetcode 150
-- Read Baseten's Inference Engineering 
+- Read Baseten's Inference Engineering and ML Q&A by Sebastian Ranchka 
 - Have a coffee chat with one research scientist / research engineer every week 
 - Reach out to 1 professor and their phd students whose work I am interested in until I get research
 - Staying healthy and happy :)
