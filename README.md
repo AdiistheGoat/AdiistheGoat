@@ -20,7 +20,7 @@ Summer goals:
 - Staying healthy and happy :)
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujgaurave&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 </div>
 
@@ -51,7 +51,7 @@ Summer goals:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" />
   </a>
-</p>
+</p> -->
 
 Connect with me:
 
