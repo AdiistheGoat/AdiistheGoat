@@ -5,19 +5,18 @@
              Pursuing my BS. Honors in Computer Science and Data Science from University Of Wisconsin-Madison.
 
 
-🔭 I am incoming intern at Frizzle (YC backed) working on agentic workflows and evals. I also worked as a research intern at Sprocket Lab where I worked on recovering the training data distribution from gradient signals (ICML first author workshop paper). My long term goal is to become a ML Research Engineer and I am currently looking for summer research opportunties. I haven't determined my long term research direction and my interests are in data curation,  model architecture, alignment, and inference. 
+🔭 I am incoming intern at Frizzle (YC backed) working on production grade agentic workflows. I also worked as a research intern at Sprocket Lab where I worked on recovering the training data distribution from gradient signals (ICML first author workshop paper). My long term goal is to become a ML Research Engineer and I am currently looking for summer research opportunties. I haven't determined my long term research direction and my interests are in data curation,  model architecture, alignment, and inference. 
 
 🌱 Fields of Interest: SWE and Machine Learning
 
 📫 How to reach me: adityagoyal080705@gmail.com
 
-Project planned: Optimized CUDA kernels for 1.58 bit LLMs
 
 Summer goals: 
 - Finish Neetcode 150
 - Read Baseten's Inference Engineering and ML Q&A by Sebastian Ranchka 
 - Have a coffee chat with one research scientist / research engineer every week 
-- Reach out to 1 professor and their phd students whose work I am interested in until I get research
+- Attend ICML to understand different research directions and get collaborators for senior year 
 - Staying healthy and happy :)
 
 
